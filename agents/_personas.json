@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "neural-tangent-kernel",
+    "name": "The Neural Tangent Kernel",
+    "epithet": "2018 · Jacot et al.",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-infinite-width",
+    "name": "The Infinite Width",
+    "epithet": "the tractable limit",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "lazy-training",
+    "name": "Lazy Training",
+    "epithet": "the catch",
+    "emergence": "natural"
+  },
+  {
+    "slug": "double-descent",
+    "name": "Double Descent",
+    "epithet": "2019 · Belkin · Nakkiran",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "the-interpolation-threshold",
+    "name": "The Interpolation Threshold",
+    "epithet": "the turning point",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "bias-variance-inverted",
+    "name": "The Inverted Curve",
+    "epithet": "the old law, broken",
+    "emergence": "spiritual"
+  }
+]
